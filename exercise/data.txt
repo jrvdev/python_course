@@ -1,0 +1,8 @@
+hola mundo esto es un archivo de texto.
+esto es otra linea de texto. 
+
+esto es otra linea de texto. 
+
+Continuamos con otro 
+
+terminamos ahora.
